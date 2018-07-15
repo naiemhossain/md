@@ -1,0 +1,217 @@
+body{
+    width: 1200px;
+    margin: 20px auto;
+    height: auto;
+    font-family: 'roboto', sans-serif;
+}
+
+        /*header section start*/
+
+header{
+    background:#E9E9E9;
+    height: 150px;
+    border-bottom: 3px solid #C68B01
+}
+.logo{
+}
+.logo img{
+    float: left;
+    border-radius: 60%;
+    margin-left: 40px;
+    height: 100px;
+    width: 100px;
+    margin-top: 25px;
+}
+.name{
+    float: left;
+    margin-left: 30px;
+    margin-top: 12px
+}
+.name h1{
+    font-size: 60px;
+    line-height: 0px
+}
+.name h2{
+    font-size: 30px
+}
+.contact{
+    float: right;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+.contact p{
+    font-size: 22px;
+    line-height: 8px;
+    margin-top: 20px;
+
+        /*header section end*/
+        /*profile section start*/
+
+}
+.profile{
+        background:#E9E9E9;
+        border-bottom: 1px solid #dfdfdf;
+        height: 130px;
+
+}
+.profile_name{
+    float: left;
+}
+.profile_name h1{
+    color:#CB8904;
+    margin-left: 25px;
+    width: 25%;
+    font-size: 30px
+}
+.profile_con{
+    float: right;
+    width: 75%;
+    margin-top: 15px;
+}
+.profil_con p{
+    text-align: justify;
+    margin-right: 25px;
+    margin-top: 25px}
+
+        /*profile section start*/
+        /*work section start*/
+
+.work{
+    background:#E9E9E9;
+    height: 440px;
+    border-bottom: 1px solid#dfdfdf;
+}
+.work_name{
+    float: left;
+}
+.work_name h1{
+    color:#CB8904;
+    margin-left: 25px;
+    font-size:30px;
+    width: 25% 
+}
+.work_con{
+    float:right;
+    width: 75%
+} 
+
+    /*work section end*/
+    /*skill section start*/
+.skill{
+    background:#E9E9E9;
+    height: 130px;
+    border-bottom: 1px solid#dfdfdf;
+}
+.skill_name{
+    float:left;
+    width: 25%;
+}
+.skill_name h1{
+    color:#CB8904;
+    margin-left: 25px;
+    font-size: 30px;
+}
+.skill_con{
+    float: right;
+    width: 75%;
+    margin-top: 10px;
+}
+.skill_con ul{
+    list-style: none;
+    column-count: 3;
+}
+    /*skill section end*/
+    /*education section start*/
+
+.education{
+    background:#E9E9E9;
+    height: 664px;
+    border-bottom: 1px solid#dfdfdf;
+}
+.education_name{
+    float:left;
+    width: 25%;
+
+}
+.education_name h1{
+   color:#CB8904;
+    margin-left: 25px;
+    font-size: 30px;
+}
+.education_con{
+    float:right;
+    width: 75%;
+    margin-top: 10px;
+}
+        /*education section end*/
+        /*traning section start*/
+.traning{
+    background:#E9E9E9;
+    height: 650px;
+    border-bottom: 1px solid#dfdfdf;
+}
+.traning_name{
+    float:left;
+    width: 25%;
+}
+.traning_name h1{
+    color:#CB8904;
+    margin-left: 25px;
+    font-size:30px;
+    width: 25% 
+}
+.traning_con{
+    float:right;
+    width: 75%;
+    margin-top: 10px;
+}
+        /*traning section end*/
+        /*information section start*/
+
+.information{
+     background:#E9E9E9;
+    height: 220px;
+    border-bottom: 1px solid#dfdfdf;
+}
+.information_name{
+    float:left;
+    width: 25%;
+
+}
+.information_name h1{
+    color:#CB8904;
+    margin-left: 25px;
+    font-size:30px;
+    width: 25%
+}
+.information_con{
+    float:right;
+    width: 75%;
+    margin-top: 10px;
+}
+        /*information section end*/
+        /*end section start*/
+
+.end{
+    background: #2E2E2E;
+    height: 220px;
+    border-bottom: 4px solid #D18F10;
+}
+.end_name{
+    float: left;
+    width: 25%;
+    color: #FFFFFF;
+    margin-left: 25px;
+    font-size: 21px;
+    line-height: 20px;
+    margin-top: 25px;
+}
+.end_con{
+    float: right;
+    width: 21%;
+    margin-top: 100px;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+         /*end section end*/
